@@ -5,7 +5,12 @@
   "main": "scan.js",
   "dependencies": {
     "sqlite3": "^3.0.10",
-    "ipfunctions": "^0.1.0"
+    "ipfunctions": "^0.1.0",
+    "async":"^1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/millaguie/mongscan.git"
   },
   "devDependencies": {},
   "scripts": {
