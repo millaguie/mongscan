@@ -1,0 +1,20 @@
+{
+  "name": "mongoscan",
+  "version": "0.0.1",
+  "description": "A simple mongodb scanner tool (for the whole IPv4 addres space)",
+  "main": "scan.js",
+  "dependencies": {
+    "sqlite3": "^3.0.10",
+    "ipfunctions": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "scanner"
+  ],
+  "author": "millaguie",
+  "license": "BSD"
+}
